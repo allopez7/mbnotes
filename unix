@@ -1,0 +1,8 @@
+
+
+unix: a command line interface where you can do some of the normal things like drag and drop, right-click and create folder, copying, and moving files. When computers first started, everything on a computer has to be done in command line, you had to type out what you want to do. Bill Gates (and Steve Jobs) decided that more people will use the computer more if there was a nice visual interface where users can interact with. Although it may seems plain, using unix is much faster than manually dragging and dropping files and folders once you get use to it. You can use Unix to manipulate the data on your computers such as files and folders through commands. Here are some commands that you use mostly:
+ 
+mkdir, ls, cd, rm, sudo, cp, mv
+ 
+A command that might be helpful is: top. It allows you to see what processes are running on your computer.
+
