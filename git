@@ -13,6 +13,7 @@ Commands:
 branch, log,
 Concepts:
 Branch
+What is branch
 Remote:
 ssh-key, allows communication with your computer and identification. Sites such as Github, Gitlab, BitBucket are git compatible and allow for storage of new code versions. 
 Stage: stage change between add and commit
